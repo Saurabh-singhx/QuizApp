@@ -26,4 +26,22 @@ This is a simple and responsive quiz application built using **React** and **Vit
 
 ## 📦 Getting Started
 
-...
+git clone https://saurabh-singhx.github.io/QuizApp/
+
+## Navigate to the project directory
+
+cd QuizApp
+
+## Install dependencies
+
+npm install
+
+## Run the development server
+
+npm run dev
+
+## Open in your browser
+
+https://saurabh-singhx.github.io/QuizApp/
+
+
