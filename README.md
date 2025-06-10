@@ -26,6 +26,4 @@ This is a simple and responsive quiz application built using **React** and **Vit
 
 ## 📦 Getting Started
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/react-quiz-app-vite.git
+...
